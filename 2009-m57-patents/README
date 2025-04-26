@@ -1,7 +1,7 @@
 
-**Inside the Fall of M57 Patents – Uncovering Corporate Espionage**
+Inside the Fall of M57 Patents – Uncovering Corporate Espionage
 
-### 🧠 Background for Students:
+🧠 Background for Students:
 M57 Patents was a fast-growing startup operating between November 13, 2009, and December 12, 2009, specializing in outsourced patent research. In less than a month of operations, the company faced insider threats, suspicious network activities, and possible data exfiltration attempts, which ultimately brought the company to its downfall.
 
 As a member of the M57 Internal Forensics Team, you’ve been granted access to the company’s captured network traffic. Your task is to investigate and report any digital evidence related to:
@@ -13,7 +13,7 @@ As a member of the M57 Internal Forensics Team, you’ve been granted access to 
 
 ### 📁 Provided Material:
 You can download the full scenario dataset from:
-🔗 [http://downloads.digitalcorpora.org/corpora/scenarios/2009-m57-patents/](http://downloads.digitalcorpora.org/corpora/scenarios/2009-m57-patents/)
+🔗 http://downloads.digitalcorpora.org/corpora/scenarios/2009-m57-patents/
 
 Focus specifically on:
 
@@ -21,22 +21,22 @@ Focus specifically on:
 - Detective Reports
 - Scenario Documentation
 
-### 🎯 Your Mission:
+🎯 Your Mission:
 Your investigation will cover Week 1 only (Nov 16–20) of M57’s corporate history.
 
-### 🛠 Tools You May Use:
-- **Wireshark** – to analyze raw network packets
-- **Zeek** – for extracting logs and protocol behavior
-- **Brim** – for high-level visualization
-- **NetworkMiner** – for file and credential extraction
-- **Optional:** bulk_extractor or Suricata
+🛠 Tools You May Use:
+- Wireshark** – to analyze raw network packets
+- Zeek** – for extracting logs and protocol behavior
+- Brim** – for high-level visualization
+- NetworkMiner** – for file and credential extraction
+- Optional:** bulk_extractor or Suricata
 
-### ✅ Submission Requirements:
-- **PDF Report**: Executive summary + evidence + findings
-- **IOC List**: As a separate .txt or .csv
-- **ZIP File**: Any recovered files, credentials, or logs
+✅ Submission Requirements:
+- PDF Report**: Executive summary + evidence + findings
+- IOC List**: As a separate .txt or .csv
+- ZIP File**: Any recovered files, credentials, or logs
 
-### 🏆 Bonus Points For:
+ 🏆 Bonus Points For:
 - Correlating your findings with the detective reports
 - Discovering signs of insider involvement
 - Using a timeline format in your report
