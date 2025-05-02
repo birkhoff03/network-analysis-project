@@ -35,5 +35,5 @@ Find evidence of credential theft activity (example: suspicious LDAP, Kerberos, 
 ### Step 7: 
 Build a full infection timeline from email open to C2 communication to lateral move attempt.
 
-####password
+### password
 infected_20190924
